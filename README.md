@@ -10,14 +10,14 @@ Model dikembangkan untuk mengklasifikasikan teks ke dalam dua kategori:
 
 Metode yang digunakan menggabungkan representasi fitur TF-IDF dan algoritma klasifikasi Logistic Regression untuk mencapai hasil yang akurat, efisien, dan mudah diimplementasikan.
 
-Fitur Utama
+⚙️ Fitur Utama
 - Pembersihan teks otomatis (case folding, hapus tanda baca, angka, URL, stopwords)
 - Representasi fitur menggunakan TF-IDF Vectorizer
 - Model klasifikasi menggunakan Logistic Regression
 - Evaluasi performa dengan metrik Accuracy, Precision, Recall, dan F1-Score
 - Visualisasi hasil menggunakan Confusion Matrix dan Word Cloud
 
-Langkah Implementasi
+🧩 Langkah Implementasi
 
 1. Dataset
 Menggunakan dataset publik seperti Hate Speech and Offensive Language Dataset (Davidson et al.) atau dataset lokal berbahasa Indonesia.
