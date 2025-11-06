@@ -23,8 +23,8 @@ Langkah Implementasi
 Menggunakan dataset publik seperti Hate Speech and Offensive Language Dataset (Davidson et al.) atau dataset lokal berbahasa Indonesia.
 Label yang digunakan:
 
-0 = Tidak mengandung ujaran kebencian
-1 = Mengandung ujaran kebencian
+- 0 = Tidak mengandung ujaran kebencian
+- 1 = Mengandung ujaran kebencian
 
 2. Preprocessing Teks
 - Case Folding
